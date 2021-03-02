@@ -1,0 +1,31 @@
+_repo: Six-Centuries-of-English-Poetry--Tennyson-to-Chaucer_30235
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baldwin, James
+    birthdate: 1841
+    deathdate: 1925
+    gutenberg_agent_id: '1982'
+    url: http://www.gutenberg.org/2009/agents/1982
+    wikipedia: http://en.wikipedia.org/wiki/James_Baldwin_(editor_and_author)
+description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30235#Six-Centuries-of-English-Poetry--Tennyson-to-Chaucer
+gutenberg_issued: '2009-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30235'
+  lccn: '12001657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- GITenberg
+title: 'Six Centuries of English Poetry: Tennyson to Chaucer'
+url: http://www.gutenberg.org/ebooks/30235
